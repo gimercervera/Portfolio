@@ -10,11 +10,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://certificates.b9lab.com/certificate.html?uuid=b09ea6db-cb52-4e2d-8cec-d7a9dd64d5b0" target="_blank">
   Ethereum Developer Certificate
   </a>
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/gimercervera/" target="_blank">View My LinkedIn Profile</a>
-  <br>
-  website: <a href="https://dappdojo.com" target="_blank">dappdojo.com</a>
-  <br>
+  <br><br>
+  Website: <a href="https://dappdojo.com" target="_blank">dappdojo.com</a>
+  <br><br>
   <a href = "mailto: gimer@dappdojo.com">Send Email</a>
   
 theme: jekyll-theme-minimal
