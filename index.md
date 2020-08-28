@@ -4,6 +4,7 @@
 
 ### Category Name 1 
 In 2012 I was certified as a Ethereum Develper. This is my final project. It simulates ...
+<br>
 [Project 1 - B9Lab Ethereum Developer Certificate](/sample_page)
 <img src="images/certificate.jpg?raw=true"/>
 
