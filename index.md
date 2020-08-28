@@ -11,5 +11,5 @@ In 2012 I was certified as a Ethereum Developer. This is my final project. It de
 <img src="images/certificate.jpg?raw=true"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio" target="_blank">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
