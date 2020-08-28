@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Blockchain Projects
 <br>
 [Project 1 - B9Lab Ethereum Developer Certificate Project](https://github.com/gimercervera/Certificate)
 <br><br>
