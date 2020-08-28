@@ -5,17 +5,10 @@
 ### Category Name 1 
 <br>
 [Project 1 - B9Lab Ethereum Developer Certificate Project](https://github.com/gimercervera/Certificate)
-<br>
-In 2012 I was certified as a Ethereum Develper. This is my final project. It simulates ...
+<br><br>
+In 2012 I was certified as a Ethereum Develper. This is my final project. It describes a road system controlled by booths and booth operators. The smart contracts keep track of the vehicles and the payments.
+<br><br>
 <img src="images/certificate.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
