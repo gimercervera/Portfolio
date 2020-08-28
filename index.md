@@ -6,7 +6,7 @@
 <br>
 [Project 1 - B9Lab Ethereum Developer Certificate Project](https://github.com/gimercervera/Certificate)
 <br><br>
-In 2012 I was certified as a Ethereum Developer. This is my final project. It describes a road system controlled by booths and operators. The smart contracts keep track of the vehicles and the payments.
+In 2018 I was certified as a Ethereum Developer. This is my final project. It describes a road system controlled by booths and operators. The smart contracts keep track of the vehicles and the payments.
 <br><br>
 <img src="images/certificate.jpg?raw=true"/>
 
