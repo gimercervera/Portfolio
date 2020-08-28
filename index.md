@@ -1,13 +1,13 @@
 ## Blockchain Portfolio
 
 <br><br>
-[Project 1 - B9Lab Ethereum Developer Certificate Project](https://github.com/gimercervera/Certificate)
+###[Project 1 - B9Lab Ethereum Developer Certificate Project](https://github.com/gimercervera/Certificate)
 <br><br>
 In 2018, I was certified as a Ethereum Developer. This is my final project. It describes a road system controlled by booths and operators. The smart contracts keep track of the vehicles and the payments.
 <br><br>
 <img src="images/certificate.jpg?raw=true"/>
 <br><br>
-[Project 2 - Blockcerts Implementation](/pdf/blockcerts_presentation.pdf)
+###[Project 2 - Blockcerts Implementation](/pdf/blockcerts_presentation.pdf)
 <br><br>
 In 2019, my research team and I implemented the Blockcerts standard in my University. Blockcerts is a system to emit digital certificates leveraging blockchain technology.
 <br><br>
