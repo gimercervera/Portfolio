@@ -7,7 +7,7 @@ In 2018, I was certified as a Ethereum Developer. This is my final project. It d
 <br>
 <img src="images/certificate.jpg?raw=true"/>
 <br><br>
-### [Project 2 - Blockcerts Implementation](/pdf/blockcerts_presentation.pdf)
+### [Project 2 - Blockcerts Implementation](/pdf/blockcerts_utm.pdf)
 <br>
 In 2019, my research team and I implemented the Blockcerts standard in my University. Blockcerts is a system to emit digital certificates leveraging blockchain technology.
 <br>
